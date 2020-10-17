@@ -1,8 +1,8 @@
-package basicATM;
+package basicCalculator;
 
 import java.util.Scanner;
 
-public class basicATM {
+public class basicCalculator {
 	public static void main(String[] args) {
 
 		int x = 1;
